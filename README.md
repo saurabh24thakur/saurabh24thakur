@@ -79,7 +79,7 @@
 
 ## 🎉 Holopin Achievements & Hacktoberfest Badges
 
-> This board updates live with your latest badges. [web:24]
+> This board updates live with your latest badges.
 
 <p align="center">
   <a href="https://holopin.io/@saurabh24thakur">
@@ -112,5 +112,6 @@
   <strong>🔝 Top Contributed Repos</strong><br />
   <img src="https://github-contributor-stats.vercel.app/api?username=saurabh24thakur&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
   <br /><br />
-  <img src="https://visitcount.itsvg.in/api?id=saurabh24thakur&icon=0&color=0" alt="Profile Visit Count" />
+
+
 </p>
