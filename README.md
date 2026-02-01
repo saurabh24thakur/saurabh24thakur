@@ -3,14 +3,9 @@
   <a href="https://github.com/saurabh24thakur?tab=followers">
     <img src="https://img.shields.io/github/followers/saurabh24thakur?style=social" alt="GitHub followers" />
   </a>
-  <a href="https://my-portfolio-phi-seven-50.vercel.app/">
-    <img src="https://img.shields.io/badge/Resume-View-555" alt="Resume View" />
-  </a>
 </p>
 
-<h1 align="center">Hey Everyone! 👋</h1>
-
-<h2 align="center">I'm Saurabh</h2>
+<h1 align="center">Hey Everyone! 👋 I'm Saurabh Singh</h1>
 
 <p align="center">
   <em>"The winter is coming... but so is my next big project!"</em>
@@ -20,75 +15,61 @@
 
 ## 👤 About Me
 
-- 🧑‍💻 Passionate **Full-Stack Web Developer** and open-source contributor.
-- 🚀 Specializing in the **MERN stack** (MongoDB, Express, React, Node.js) and **Next.js**.
-- 💡 Actively building AI applications like **MockMate** and **Kinetic Kn.o**.
-- 🎓 B.Tech Computer Science student at **GLA University, Mathura** (Class of 2028).
-- 📧 Reach me at: **[saurabh5532u@gmail.com](mailto:saurabh5532u@gmail.com)**
+- 🧑‍💻 **Full-Stack Developer** specialized in the **MERN stack** and **Next.js**.
+- 🚀 Currently building **MockMate** (AI Interviewer) and **Kinetic Kn.o** (Cursor Clone). [cite: 2026-01-15, 2026-01-31]
+- 🎓 B.Tech CSE Student at **GLA University, Mathura** ('28). [cite: 2025-11-15]
+- 🤝 Selected for **Open Source Connect Global (OSCG)** and **Winter of Code 2026**. [cite: 2026-01-08, 2026-01-19]
+- 📧 Reach me: **[saurabh5532u@gmail.com](mailto:saurabh5532u@gmail.com)**
 
 ---
 
-## 🌐 Socials
-
+## 🐍 Contribution Snake
 <p align="center">
-<a href="https://linkedin.com/in/saurabh-singh-476157374">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/mr_saurabh_420_k">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
+  <img src="https://raw.githubusercontent.com/saurabh24thakur/saurabh24thakur/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
+
+---
+
+## 📊 GitHub Metrics
+<p align="center">
+  <img src="https://github.com/saurabh24thakur/saurabh24thakur/blob/main/github-metrics.svg" alt="Saurabh's Metrics" width="100%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 MockMate</h3>
+      <p>AI mock interview platform with real-time feedback using Gemini AI. [cite: 2026-01-31]</p>
+      <a href="https://github.com/saurabh24thakur/MockMate">📂 View Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Kinetic Kn.o</h3>
+      <p>AI-powered code editor and Cursor clone built with MERN & Groq. [cite: 2026-01-31]</p>
+      <a href="https://github.com/saurabh24thakur/Kinetic-Kno">📂 View Repo</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💻 Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" />
 </p>
 
 ---
 
-## 📊 GitHub Performance
-
+## 🌐 Connect
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh24thakur&show_icons=true&theme=blue-green&hide_border=false&cache_seconds=1800" alt="Saurabh's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh24thakur&layout=compact&theme=blue-green&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh24thakur&theme=github-compact&area=true" width="100%" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh24thakur&theme=blue-green" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 Achievements & Inspiration
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabh24thakur&theme=radical&no-bg=true" alt="GitHub Trophies" />
-  <br /><br />
-  <strong>✍️ Random Dev Quote</strong><br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-## 🎉 Holopin Board
-
-<p align="center">
-  <a href="https://holopin.io/@saurabh24thakur">
-    <img src="https://holopin.io/api/user/board?user=saurabh24thakur" alt="Holopin board" />
-  </a>
+<a href="https://linkedin.com/in/saurabh-singh-476157374"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://instagram.com/mr_saurabh_420_k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
 </p>
