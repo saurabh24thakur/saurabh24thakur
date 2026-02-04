@@ -13,7 +13,7 @@
 <h2 align="center">I'm Saurabh</h2>
 
 <p align="center">
-  <em>"The winter is coming... but so is my next big project!"</em>
+  <em>"Talk is cheap. Show me the code!"</em>
 </p>
 
 ---
