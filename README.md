@@ -59,10 +59,10 @@
 ---
 
 ## 📊 GitHub Dashboard
-
 <p align="center">
-  <img src="https://metrics.lecoq.io/saurabh24thakur?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.limit=8&languages.colors=github&theme=react" alt="Saurabh's Metrics" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh24thakur&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" />
 </p>
+
 
 ### 📈 Activity Graph
 <p align="center">
